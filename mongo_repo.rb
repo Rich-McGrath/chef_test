@@ -6,3 +6,5 @@ content '[mongodb-org-3.4]
           enabled=1
           gpgkey=https://www.mongodb.org/static/pgp/server-3.4.asc'
 end
+
+package 'mongodb-org'
